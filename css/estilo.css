@@ -15,11 +15,12 @@ body {
   margin: 0 auto
 }
 
-h1 {
+.titulo {
   font-weight: 400;
   font-size: 80px;
-  color: #6b3de4;
   margin-top: 60px;
+  color: #6b3de4;
+
 }
 
 .cafe {
@@ -27,7 +28,7 @@ h1 {
   height: 356px;
 }
 
-body div h2 {
+.subtitulo {
   width: 584px;
   height: 131px;
   font-size: 40px;
@@ -59,7 +60,7 @@ button {
   margin-top: 62px;
 }
 
-footer {
+.rodape {
   margin-left: 249px;
 }
 
